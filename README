@@ -1,0 +1,3 @@
+Drawing concave shapes with Box2D in flash
+
+The code was part of an experiment I was trying to do, to create convex and concave shapes and do collision with them effectively using Box2D with actionscript. Read the blog post to see code in action and to find out more.
